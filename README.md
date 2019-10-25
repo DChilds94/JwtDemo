@@ -1,0 +1,1 @@
+The purpose of this repo is for me to learn how to create authentication  for APIs using JWT, Spring Security and Spring Boot.  
